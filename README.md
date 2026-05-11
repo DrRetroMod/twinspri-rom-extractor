@@ -1,6 +1,6 @@
-# lastblad-rom-extractor
+# twinspri-rom-extractor
 
-lastblad-rom-extractor is a Python script to extract MAME compatible rom archives from the Dotemu releases of The Last Blade
+twinspri-rom-extractor is a Python script to extract MAME compatible rom archives from the Dotemu releases of Twinkle Star Sprites
 
 ## How does it work?
 
@@ -10,7 +10,7 @@ This script manipulates the files at `GAME_DIR/resources/game` to convert them f
 
 Dotemu's windows releases (Available in Amazon Gaming and possibly Steam & GOG?? I am unsure of these last two) of:
 
-* The Last Blade
+* Twinkle Star Sprites
 
 ## BIOS
 
