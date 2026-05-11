@@ -2,6 +2,8 @@
 
 twinspri-rom-extractor is a Python script to extract MAME compatible rom archives from the Dotemu releases of Twinkle Star Sprites
 
+(For transparency LLM's have been used in the making of these scripts, but they do exactly as they claim, and they get the job done, I am not a veteran in coding, I am just a guy wanting to extract ROMs)
+
 ## How does it work?
 
 This script manipulates the files at `GAME_DIR/resources/game` to convert them from a format optimized for Dotemu's emulator to the original Neo-Geo binaries. Specific file manipulations are documented in the script's source code. All of this was achieved after some light Reverse Engineering of the emulator.
